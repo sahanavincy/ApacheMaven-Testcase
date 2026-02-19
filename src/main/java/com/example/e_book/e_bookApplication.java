@@ -1,13 +1,13 @@
-package com.example.testcase;
+package com.example.e_book;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TestcaseApplication {
+public class e_bookApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestcaseApplication.class, args);
+		SpringApplication.run(e_bookApplication.class, args);
 	}
 
 }
