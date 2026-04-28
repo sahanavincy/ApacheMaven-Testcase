@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: sahanaagent
+  name: sanyaagent
 
 steps:
 - task: Maven@4
